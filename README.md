@@ -1,2 +1,12 @@
-# Creator.AI.hub
-“A simple website built with HTML, CSS, and JavaScript that provides tutorials, guides, and reviews of the best AI tools in 2025. Hosted on GitHub Pages / Firebase Hosting.”
+creatorai-hub/
+│
+├── index.html        (Homepage with categories)
+├── video.html        (Video AI page)
+├── blog-ai.html      (Blog & Writing AI page)
+├── design.html       (Design AI page)
+├── audio.html        (Audio AI page)
+├── social.html       (Social Media AI page)
+├── about.html        (About page)
+├── contact.html      (Contact page)
+├── styles.css        (Main styling)
+└── assets/           (images, logos later)
